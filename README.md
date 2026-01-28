@@ -245,7 +245,6 @@ DL-Pixel-Coordinate-Prediction/
 ├── requirements.txt                       # Python dependencies
 ├── README.md                              # Project documentation
 ├── LICENSE                                # MIT License
-
 ```
 
 ### Ideas for Enhancement
