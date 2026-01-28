@@ -17,7 +17,6 @@ A Deep Learning solution for predicting the coordinates of a single white pixel 
 - [Results](#results)
 - [Code Quality](#code-quality)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 🎯 Problem Statement
